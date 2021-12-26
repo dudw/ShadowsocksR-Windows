@@ -65,7 +65,7 @@
     <PackageReference Include="WindowsJobAPI" Version="5.0.1" />
     <PackageReference Include="WindowsProxy" Version="5.0.6" />
     <PackageReference Include="WpfColorFontDialog" Version="1.0.8" />
-    <PackageReference Include="ZXing.Net" Version="0.16.6" />
+    <PackageReference Include="ZXing.Net" Version="0.16.7" />
   </ItemGroup>
 
   <ItemGroup>
